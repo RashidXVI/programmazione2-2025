@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-    printf("*************");
+    printf("*************\n");
     printf("Hello, World, I am Davide\n");
     printf("I am 19 years old\n");
+    printf("*************\n");
 }
